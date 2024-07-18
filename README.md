@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikarrj
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...aws
+- 🌱 I’m currently learning ...aws Fresher | DevOps Engineer | CI/CD | AWS | Jenkins 🚀 | Docker 🐳 Terraform | Git | EC2 ,EBS S3,VPC | Kubernetes ☸️ |python|c
 - 💞️ I’m looking to collaborate on ..projects
 - 📫 How to reach me ...jadav-srikar linked in
 - 😄 Pronouns: ...srikar
